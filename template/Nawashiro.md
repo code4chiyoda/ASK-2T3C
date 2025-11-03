@@ -3,6 +3,8 @@ id: ASK-2T3C-{{title}}
 title:
 author: Nawashiro
 contact: rsm4905dc[a]mozmail.com
+status: active
+created: {{date}}
 ---
 
 ```
@@ -10,6 +12,8 @@ id: ASK-2T3C-{{title}}
 title: 
 author: Nawashiro
 contact: rsm4905dc[a]mozmail.com
+status: active
+created: {{date}}
 ```
 
 # 
